@@ -97,7 +97,7 @@ It minimizes waiting time, improves traffic flow efficiency, and safely handles 
 
 ## 💻 Arduino Code
 
-> Full code is available in [`Smart_Traffic_Signal.ino`](./Smart_Traffic_Signal.ino)
+> Full code is available in [`Smart_Traffic_Signal.ino`](https://github.com/sayam-1705/smart-traffic-signal-system/blob/main/smart_sraffic_signal_system.ino)
 
 The code:
 - Reads sensor inputs (HC-SR04, PIR)  
@@ -156,7 +156,6 @@ Pedestrian crossing → 5 s
 
 ## 👨‍💻 Project Details
 
-- **Author:** Sayam Mondal  
 - **Hardware Platform:** Arduino UNO R3  
 - **Programming Language:** C++ (Arduino IDE)  
 - **Version:** 1.0  
